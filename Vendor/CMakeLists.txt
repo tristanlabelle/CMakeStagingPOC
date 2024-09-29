@@ -1,0 +1,2 @@
+add_subdirectory(WinAppRuntime)
+add_subdirectory(XCTest)
